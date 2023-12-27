@@ -2,6 +2,8 @@ name: "Fitbit2MQTT"
 description: "Interact with your Fitbit data using MQTT"
 version: "0.0.5"
 slug: "fitbit_2_mqtt"
+init: false
+host_pid: true
 arch:
   - aarch64
   - amd64
